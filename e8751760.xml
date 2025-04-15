@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf8" ?>
+<reference_data>
+    <id>e8751760-2441-460a-99a7-aa7f03f408e6</id>
+    <description>Опорные точки калибровки СКНО-1М.</description>
+    <point type="center">
+        <lat>48.9552669</lat>
+        <lon>40.3158605</lon>
+    </point>
+    <references>
+            <point type="reference">
+                <lat>48.777959207692305</lat>
+                <lon>40.12542093956044</lon>
+            </point>
+            <point type="reference">
+                <lat>48.637189976923075</lat>
+                <lon>39.93860775274725</lon>
+            </point>
+            <point type="reference">
+                <lat>48.8769701967033</lat>
+                <lon>40.18119017032967</lon>
+            </point>
+            <point type="reference">
+                <lat>48.52537679010989</lat>
+                <lon>40.13553082967033</lon>
+            </point>
+            <point type="reference">
+                <lat>48.73675041648352</lat>
+                <lon>38.51542093956044</lon>
+            </point>
+    </references>
+</reference_data>
